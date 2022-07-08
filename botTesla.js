@@ -482,7 +482,8 @@ bot.action('TR', ctx=>{
 *🇦🇿 Digər Qruplar*
        `,{
         reply_markup:{
-            inline_keyboard:
+            inline_keyboard:[
+              [{text:'1) Qrup ', url:'t.me/BakuCity_Az'}], 
                 [{text:'🔙 Geri', callback_data:'vip'}]
             ]
         }
