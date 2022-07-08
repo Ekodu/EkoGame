@@ -483,7 +483,7 @@ bot.action('TR', ctx=>{
        `,{
         reply_markup:{
             inline_keyboard:[
-              [{text:'1) Qrup ', url:'t.me/BakuCity_Az'}], 
+                [{text:'1) Qrup ', url:'t.me/BakuCity_Az'}], 
                 [{text:'🔙 Geri', callback_data:'vip'}]
             ]
         }
