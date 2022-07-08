@@ -483,7 +483,6 @@ bot.action('TR', ctx=>{
        `,{
         reply_markup:{
             inline_keyboard:
-               
                 [{text:'🔙 Geri', callback_data:'vip'}]
             ]
         }
